@@ -1,7 +1,8 @@
+
 #include<stdio.h>
 int main()
 {
-    int a=300,b,c;
+    int a=500,b,c;
     if(a>=400)
         b=300;
     c=200;
@@ -10,5 +11,5 @@ int main()
 }
 
 /*Answer
-50(Any garbage value)200
+300 200
 */
